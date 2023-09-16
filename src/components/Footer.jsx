@@ -13,7 +13,7 @@ export function Footer() {
       style={{ backgroundColor: tema.footer, color: tema.font }}
     >
       <div className="info-footer">
-        <p className="nombre">Santiago Aaron Gonzalez</p>
+        <p className="nombre">Santiago Aaron Gonzalez.</p>
       </div>
       <div className="images">
         <a className="button-class" href="https://www.facebook.com/">
@@ -29,4 +29,4 @@ export function Footer() {
     </footer>
   );
 }
-
+//
