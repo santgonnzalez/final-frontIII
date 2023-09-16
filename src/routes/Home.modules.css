@@ -1,0 +1,20 @@
+.home {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.principal {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  user-select: none;
+}
+
+.card-home {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
